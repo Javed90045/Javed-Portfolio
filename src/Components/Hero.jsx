@@ -9,7 +9,7 @@ const Hero = () => {
         <img className="w-[10%] rounded-full" src={javed} alt="" />
       </div>
       <h1 className="text-4xl font-bold mb-4">Hello, I'm Javed Ali</h1>
-      <p className="text-lg mb-8">Frontend Developer | React Enthusiast</p>
+      <p className="text-lg mb-8">Web Developer | React Enthusiast</p>
       <a
         href="#contact"
         className="bg-blue-500 text-white px-6 py-3 rounded hover:bg-blue-600"
